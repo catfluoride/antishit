@@ -1,0 +1,14 @@
+
+
+dns.google
+dns.google.com
+google-public-dns-a.google.com
+cloudflare-dns.com
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+amazonclix.com
+advertising.twitter.com
+d.reddit.com
+widgets.pinterest.com
