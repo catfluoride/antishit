@@ -8,5 +8,5 @@
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonclix.com
 0.0.0.0 advertising.twitter.com
-0.0.0.0 d.reddit.com
+# 0.0.0.0 d.reddit.com
 0.0.0.0 widgets.pinterest.com
