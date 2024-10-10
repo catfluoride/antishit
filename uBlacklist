@@ -11,7 +11,12 @@
 *://whatismyipaddress.com/*
 *://www.usnews.com/*
 *://www.computerbild.de/*
-\w:\/\/*.amazon.*
+*://www.amazon.com/*
+*://amazon.com/*
+*://www.amazon.es/*
+*://amazon.es/*
+*://www.amazon.co.uk/*
+*://amazon.co.uk/*
 title/best/i
 title/mejores/i
 title/mejor/i
